@@ -11,5 +11,5 @@ function Scooter(year,color,model){
   this.age=age;
   this.experience=experience;
 }
-  let samson = new Scooter(2015, "red", "swoosh");
+  let samson = new Driver(2015, "red", "swoosh");
   samson.year;
